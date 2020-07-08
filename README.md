@@ -1,10 +1,7 @@
-# Proyecto-Analisis-de-Datos
-Proyecto BEDU, analásis de datos de:
-https://datos.cdmx.gob.mx/explore/dataset/carpetas-de-investigacion-pgj-de-la-ciudad-de-mexico/table/?disjunctive.ao_hechos&disjunctive.delito&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImNhcnBldGFzLWRlLWludmVzdGlnYWNpb24tcGdqLWRlLWxhLWNpdWRhZC1kZS1tZXhpY28iLCJvcHRpb25zIjp7ImRpc2p1bmN0aXZlLmFvX2hlY2hvcyI6dHJ1ZSwiZGlzanVuY3RpdmUuZGVsaXRvIjp0cnVlfX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJDT1VOVCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLUFjY2VudCJ9XSwieEF4aXMiOiJhb19oZWNob3MiLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoiZGVsaXRvIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D&location=4,22.02455,-78.2666
-Contenido del repositorio:
-1. Introducción 
-2. Objetivo
-3. Alcance
-4. Datos
-5. Desarrollo
-6. Conclusión
+Proyecto BEDU: Carpetas de investigación de la CDMX
+Daniel Chapa
+(fecha)
+
+Abstract
+
+CDMX Dataset
